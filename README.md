@@ -1,3 +1,5 @@
+# Binaries in releases
+
 # EntropyKey
 
 A tiny C utility to generate random secure passwords right from your terminal, powered by CPU clock entropy.
